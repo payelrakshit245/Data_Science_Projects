@@ -10,7 +10,7 @@ Project 2: Numpy Matplotlib Portfolio
 ![image](https://github.com/user-attachments/assets/79f0a9b7-2038-4f88-8e77-07d131d36010)
 ![image](https://github.com/user-attachments/assets/5d365ee1-0e7a-489b-87a0-6aa45218e9f3)
 TECHNOLOGY USED:
-#Technologies Demonstrated:
+Technologies Demonstrated:
 NumPy - Advanced numerical computing Matplotlib - Complex multi-panel visualizations Scikit-learn - Machine learning algorithms SciPy - Statistical tests and optimization Pandas - Time series analysis Seaborn - Statistical visualization
 
 
